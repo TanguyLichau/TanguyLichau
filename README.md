@@ -38,6 +38,6 @@
 
 ### 📊 Some stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TanguyLichau&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TanguyLichau&theme=highcontrast&hide_border=true&currStreakLabel=e59e00)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanguyLichau&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true&exclude_repo=GuessTheFlag)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanguyLichau&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true&exclude_repo=GuessTheFlag&title_color=e59e00)](https://github.com/anuraghazra/github-readme-stats)
