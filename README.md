@@ -29,6 +29,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="35" height="50"/>      
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="35" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" height="50"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="35" height="50"/>
 </div>
@@ -36,3 +37,7 @@
 ---
 
 ### 📊 Some stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TanguyLichau&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanguyLichau&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true&exclude_repo=GuessTheFlag)](https://github.com/anuraghazra/github-readme-stats)
