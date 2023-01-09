@@ -40,8 +40,8 @@
 # 📊 Some stats :
 
 <a href="https://github.com/thepiyushmalhotra">
-  <img height="210px" src="http://github-readme-streak-stats.herokuapp.com?user=TanguyLichau&theme=highcontrast&hide_border=true&currStreakLabel=e59e00" />
-  <img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanguyLichau&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true&exclude_repo=GuessTheFlag&title_color=e59e00" />
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=TanguyLichau&theme=highcontrast&hide_border=true&currStreakLabel=e59e00" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanguyLichau&layout=compact&theme=vision-friendly-dark&hide_border=true&count_private=true&exclude_repo=GuessTheFlag&title_color=e59e00" />
  </a>
 
 
